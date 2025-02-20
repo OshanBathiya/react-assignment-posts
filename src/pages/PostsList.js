@@ -35,8 +35,7 @@ function PostsList() {
     } else {
       const filtered = posts.filter(
         (post) =>
-          post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-          post.body.toLowerCase().includes(searchQuery.toLowerCase())
+          post.title.toLowerCase().includes(searchQuery.toLowerCase())
       );
       setFilteredPosts(filtered);
     }
