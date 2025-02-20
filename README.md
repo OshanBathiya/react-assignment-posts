@@ -1,6 +1,6 @@
 
 
-# Simple React App to display posts from [https://jsonplaceholder.typicode.com](URL)
+# Simple React App to display posts from [https://jsonplaceholder.typicode.com]
 
 Used
 - Create React App
