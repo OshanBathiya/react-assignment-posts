@@ -2,10 +2,10 @@
 
 # Simple React App to display posts from [https://jsonplaceholder.typicode.com](URL)
 
-Used 
-    -Create React App
-    -react-router-dom
-    -MUI
+Used
+- Create React App
+- react-router-dom
+- MUI
 
 ## How to run
 Clone the project and move into project directory.\
